@@ -1,0 +1,11 @@
+{
+  "name": "claude-themes",
+  "owner": { "name": "wevial" },
+  "plugins": [
+    {
+      "name": "pink-slip",
+      "source": "./plugins/pink-slip",
+      "description": "A white chat column on bubblegum pink with a slow haze of colored smoke"
+    }
+  ]
+}
